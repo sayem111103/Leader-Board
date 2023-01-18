@@ -136,7 +136,7 @@ ul {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     row-gap: 26px;
-    column-gap: 79px;
+    column-gap: 78px;
 }
 
 article {
@@ -155,6 +155,7 @@ article .blog_img img {
 .blog_text h4 {
     font-weight: 500;
     font-size: 20px;
+    padding-right: 66px;
 }
 
 .blog_text p {
